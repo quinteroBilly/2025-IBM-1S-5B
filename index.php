@@ -144,25 +144,25 @@
             <h2>Historias de usuario</h2>
             <div class="cards-grid">
                 <div class="card card-user-story" style="background-color: lightblue;">
-                    <div class="card-header">Alex Franco</div>
+                    <div class="card-header">Billy Quintero</div>
                     <div class="card-body">
                         <p><span class="keyword">Como</span> estudiante,</p>
-                        <p><span class="keyword">Quiero</span> poder ver mi historial de compras,</p>
-                        <p><span class="keyword">Para</span> llevar un registro de mis gastos.</p>
+                        <p><span class="keyword">Quiero</span>  recibir recordatorios automáticos de mis exámenes y entregas,</p>
+                        <p><span class="keyword">Para</span> evitar olvidos.</p>
                     </div>
                 </div>
 
                 <div class="card card-user-story">
-                    <div class="card-header">María García</div>
+                    <div class="card-header">Billy Quintero</div>
                     <div class="card-body">
-                        <p><span class="keyword">Como</span> usuario registrado,</p>
-                        <p><span class="keyword">Quiero</span> restablecer mi contraseña,</p>
-                        <p><span class="keyword">Para</span> recuperar el acceso a mi cuenta.</p>
+                        <p><span class="keyword">Como</span> estudiante,</p>
+                        <p><span class="keyword">Quiero</span> quiero conocer estadísticas de mi progreso académico,</p>
+                        <p><span class="keyword">Para</span> evaluar mi rendimiento.</p>
                     </div>
                 </div>
 
                 <div class="card card-user-story">
-                    <div class="card-header">Carlos López</div>
+                    <div class="card-header">Billy Quintero</div>
                     <div class="card-body">
                         <p><span class="keyword">Como</span> administrador,</p>
                         <p><span class="keyword">Quiero</span> agregar nuevos productos al inventario,</p>
@@ -171,20 +171,20 @@
                 </div>
                 
                 <div class="card card-user-story">
-                    <div class="card-header">Ana Torres</div>
+                    <div class="card-header">Billy Quintero</div>
                     <div class="card-body">
-                        <p><span class="keyword">Como</span> visitante del sitio,</p>
-                        <p><span class="keyword">Quiero</span> buscar productos por categoría,</p>
-                        <p><span class="keyword">Para</span> encontrar lo que necesito más rápido.</p>
+                        <p><span class="keyword">Como</span> estudiante,</p>
+                        <p><span class="keyword">Quiero</span> quiero una aplicación que organice mis tareas y fechas de entrega,</p>
+                        <p><span class="keyword">Para</span> mejorar mi gestión del tiempo.</p>
                     </div>
                 </div>
 
                 <div class="card card-user-story">
-                    <div class="card-header">Pedro Gómez</div>
+                    <div class="card-header">Billy Quintero</div>
                     <div class="card-body">
-                        <p><span class="keyword">Como</span> cliente,</p>
-                        <p><span class="keyword">Quiero</span> dejar una reseña en un producto,</p>
-                        <p><span class="keyword">Para</span> compartir mi opinión con otros usuarios.</p>
+                        <p><span class="keyword">Como</span> estudiante,</p>
+                        <p><span class="keyword">Quiero</span> quiero recuperar el acceso a mi cuenta ingresando mi correo institucional ,</p>
+                        <p><span class="keyword">Para</span> recibir un enlace de restablecimiento y no perder el acceso a la plataforma.</p>
                     </div>
                 </div>
                 
@@ -203,27 +203,27 @@
             <h2>Diseño de interfaces</h2>
             <div class="cards-grid">
                 <div class="card card-design-interface" style="background-color: lightblue;">
-                    <img src="login.png" alt="Diseño de interfaz de login">
-                    <div class="card-description">Un diseño de interfaz simple y moderno para la página de inicio de sesión.</div>
-                    <div class="card-author">Autor: Juan Pérez</div>
+                    <img src="imagenes/billy1.jpeg" alt="Estadísticas de progreso">
+                    <div class="card-description">Un diseño de interfaz simple y moderno para poder ver las estadisticas de mi progreso.</div>
+                    <div class="card-author">Autor: Billy Quintero</div>
                 </div>
                 
                 <div class="card card-design-interface">
-                    <img src="https://via.placeholder.com/300" alt="Diseño de la página principal">
-                    <div class="card-description">Página principal con un enfoque minimalista para mejorar la navegación.</div>
-                    <div class="card-author">Autor: Sofía Rodríguez</div>
+                    <img src="imagenes/billy2.jpeg" alt="Recordatorios automáticos">
+                    <div class="card-description">Página enfocada en dar alertas automaticamente.</div>
+                    <div class="card-author">Autor: Billy Quintero</div>
                 </div>
                 
                 <div class="card card-design-interface">
-                    <img src="https://via.placeholder.com/300" alt="Diseño de la página de productos">
-                    <div class="card-description">Diseño de la galería de productos, optimizado para la búsqueda por categorías.</div>
-                    <div class="card-author">Autor: Luis González</div>
+                    <img src="imagenes/billy3.jpeg" alt="Organización tareas y fecha de entrega">
+                    <div class="card-description">Diseño sencillo de un organizador para entregas y tareas.</div>
+                    <div class="card-author">Autor: Billy Quintero</div>
                 </div>
 
                 <div class="card card-design-interface">
-                    <img src="https://via.placeholder.com/300" alt="Diseño de carrito de compras">
-                    <div class="card-description">Una vista detallada del carrito de compras, con opciones de pago seguras.</div>
-                    <div class="card-author">Autor: Ana Martínez</div>
+                    <img src="imagenes/billy4.jpeg" alt="Recuperación de cuenta">
+                    <div class="card-description">Una página para recuperar las credenciales en caso de pérdida.</div>
+                    <div class="card-author">Autor: Billy Quintero</div>
                 </div>
 
                 <div class="card card-design-interface">

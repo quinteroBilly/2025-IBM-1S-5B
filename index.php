@@ -273,6 +273,36 @@
                     <div class="card-description">Un diseño claro para las notificaciones del sistema y mensajes de confirmación.</div>
                     <div class="card-author">Autor: Elena Fernández</div>
                 </div>
+
+                <div class="card card-design-interface">
+                    <img src="imgenes/1.jpg" alt="">
+                    <div class="card-description"></div>
+                    <div class="card-author">Autor:Jessenia Mera</div>
+                </div>
+
+                <div class="card card-design-interface">
+                    <img src="imgenes/2.jpg" alt="">
+                    <div class="card-description"></div>
+                    <div class="card-author">Autor: Jessenia Mera</div>
+                </div>
+
+               
+               
+                <div class="card card-design-interface">
+                    <img src="imgenes/3.jpg" alt=".">
+                    <div class="card-description">.</div>
+                    <div class="card-author">Autor:Jessenia Mera</div>
+                </div>
+                <div class="card card-design-interface">
+                    <img src="imgenes/4.jpg" alt=".">
+                    <div class="card-description">.</div>
+                    <div class="card-author">Autor:Jessenia Mera</div>
+                </div>
+                <div class="card card-design-interface">
+                    <img src="imgenes/5.jpg" alt=".">
+                    <div class="card-description">..</div>
+                    <div class="card-author">Autor:Jessenia Mera</div>
+                </div>
             </div>
         `;
         

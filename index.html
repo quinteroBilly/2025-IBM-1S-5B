@@ -273,7 +273,7 @@
                 </div>
 
                 <div class="card card-design-interface">
-                    <img src="imgenes/2.jpg" alt="">
+                    <img src="imagenes/2.jpg" alt="">
                     <div class="card-description"></div>
                     <div class="card-author">Autor: Jessenia Mera</div>
                 </div>
@@ -281,17 +281,17 @@
                
                
                 <div class="card card-design-interface">
-                    <img src="imgenes/3.jpg" alt=".">
+                    <img src="imagenes/3.jpg" alt=".">
                     <div class="card-description">.</div>
                     <div class="card-author">Autor:Jessenia Mera</div>
                 </div>
                 <div class="card card-design-interface">
-                    <img src="imgenes/4.jpg" alt=".">
+                    <img src="imagenes/4.jpg" alt=".">
                     <div class="card-description">.</div>
                     <div class="card-author">Autor:Jessenia Mera</div>
                 </div>
                 <div class="card card-design-interface">
-                    <img src="imgenes/5.jpg" alt=".">
+                    <img src="imagenes/5.jpg" alt=".">
                     <div class="card-description">..</div>
                     <div class="card-author">Autor:Jessenia Mera</div>
                 </div>

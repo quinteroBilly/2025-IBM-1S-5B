@@ -188,12 +188,48 @@
                     </div>
                 </div>
                 
+                
                 <div class="card card-user-story">
-                    <div class="card-header">Laura Díaz</div>
+                    <div class="card-header">Jessenia Mera</div>
                     <div class="card-body">
-                        <p><span class="keyword">Como</span> desarrollador,</p>
-                        <p><span class="keyword">Quiero</span> una API de pagos segura,</p>
-                        <p><span class="keyword">Para</span> procesar transacciones de manera confiable.</p>
+                        <p><span class="keyword">Como</span> estudiante,</p>
+                        <p><span class="keyword">Quiero</span> poder iniciar sesión con mis credenciales,</p>
+                        <p><span class="keyword">Para</span> entrar a la aplicación de manera segura.</p>
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Jessenia Mera</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> usuario,</p>
+                        <p><span class="keyword">Quiero</span> poder recuperar mi contraseña,</p>
+                        <p><span class="keyword">Para</span> no perder el acceso a mi cuenta.</p>
+                    </div>
+                </div>
+                
+                
+                 <div class="card card-user-story">
+                    <div class="card-header">Jessenia Mera</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> administrador,</p>
+                        <p><span class="keyword">Quiero</span> poder actualizar o eliminar productos,</p>
+                        <p><span class="keyword">Para</span> mantener el catálogo al día.</p>
+                    </div>
+                </div>
+                 <div class="card card-user-story">
+                    <div class="card-header">Jessenia Mera</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> estudiante,</p>
+                        <p><span class="keyword">Quiero</span> ver el catálogo de productos,</p>
+                        <p><span class="keyword">Para</span> conocer la oferta disponible.</p>
+                    </div>
+                </div>
+                 <div class="card card-user-story">
+                    <div class="card-header">Jessenia Mera</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> estudiante,</p>
+                        <p><span class="keyword">Quiero</span> filtrar productos por categoría (libros, ropa, útiles),</p>
+                        <p><span class="keyword">Para</span> encontrar lo que necesito más rápido.</p>
                     </div>
                 </div>
             </div>

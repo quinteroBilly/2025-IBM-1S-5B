@@ -232,6 +232,48 @@
                         <p><span class="keyword">Para</span> encontrar lo que necesito más rápido.</p>
                     </div>
                 </div>
+                <div class="card card-user-story">
+                    <div class="card-header">Grachi Silva</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> estudiante,</p>
+                        <p><span class="keyword">Quiero</span> poder pagar mis compras en línea con diferentes métodos (tarjeta, transferencia o billetera digital),</p>
+                        <p><span class="keyword">Para</span> tener más opciones y comodidad al momento de adquirir productos.</p>
+                    </div>
+                </div>
+                
+                
+                 <div class="card card-user-story">
+                    <div class="card-header">Grachi Silva</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> administrador,</p>
+                        <p><span class="keyword">Quiero</span> generar reportes de ventas por semana y mes,</p>
+                        <p><span class="keyword">Para</span> analizar el rendimiento de la tienda y tomar mejores decisiones.</p>
+                    </div>
+                </div>
+                 <div class="card card-user-story">
+                    <div class="card-header">Grachi Silva</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> estudiante,</p>
+                        <p><span class="keyword">Quiero</span> recibir notificaciones cuando haya descuentos especiales para mi carrera (ej. libros de mi área),</p>
+                        <p><span class="keyword">Para</span> aprovechar ofertas relevantes para mis estudios.</p>
+                    </div>
+                </div>
+                 <div class="card card-user-story">
+                    <div class="card-header">Grachi Silva</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> usuario,</p>
+                        <p><span class="keyword">Quiero</span> poder calificar y dejar reseñas de los productos que compro,</p>
+                        <p><span class="keyword">Para</span> ayudar a otros estudiantes a tomar mejores decisiones de compra.</p>
+                    </div>
+                </div>
+                 <div class="card card-user-story">
+                    <div class="card-header">Grachi Silva</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> administrador,</p>
+                        <p><span class="keyword">Quiero</span> tener un panel para gestionar los pedidos y ver su estado (pendiente, en proceso, entregado),</p>
+                        <p><span class="keyword">Para</span> mantener un control eficiente de las entregas.</p>
+                    </div>
+                </div>
             </div>
         `;
 
@@ -268,32 +310,58 @@
 
                 <div class="card card-design-interface">
                     <img src="imagenes/1.jpg" alt="">
-                    <div class="card-description"></div>
+                    <div class="card-description">Registro de usuario</div>
                     <div class="card-author">Autor:Jessenia Mera</div>
                 </div>
-
                 <div class="card card-design-interface">
                     <img src="imagenes/2.jpg" alt="">
-                    <div class="card-description"></div>
+                    <div class="card-description">Recuperación de contraseña</div>
                     <div class="card-author">Autor: Jessenia Mera</div>
-                </div>
-
-               
-               
+                </div>       
                 <div class="card card-design-interface">
                     <img src="imagenes/3.jpg" alt=".">
-                    <div class="card-description">.</div>
+                    <div class="card-description">Actualizar Productos</div>
                     <div class="card-author">Autor:Jessenia Mera</div>
                 </div>
                 <div class="card card-design-interface">
                     <img src="imagenes/4.jpg" alt=".">
-                    <div class="card-description">.</div>
+                    <div class="card-description">Catalogo de productos</div>
                     <div class="card-author">Autor:Jessenia Mera</div>
                 </div>
                 <div class="card card-design-interface">
                     <img src="imagenes/5.jpg" alt=".">
-                    <div class="card-description">..</div>
+                    <div class="card-description">Filtrar Productos por categoria</div>
                     <div class="card-author">Autor:Jessenia Mera</div>
+                </div>
+
+
+
+
+                <div class="card card-design-interface">
+                    <img src="imagenes/6.jpg" alt="">
+                    <div class="card-description">Pagar mis compras en línea</div>
+                    <div class="card-author">Autor:Grachi Silva</div>
+                </div>
+
+                <div class="card card-design-interface">
+                    <img src="imagenes/7.jpg" alt="">
+                    <div class="card-description">Generar reportes de ventas</div>
+                    <div class="card-author">Autor: Grachi Silva</div>
+                </div>  
+                <div class="card card-design-interface">
+                    <img src="imagenes/8.jpg" alt=".">
+                    <div class="card-description">Recibir notificaciones</div>
+                    <div class="card-author">Autor:Grachi Silva</div>
+                </div>
+                <div class="card card-design-interface">
+                    <img src="imagenes/9.jpg" alt=".">
+                    <div class="card-description"> Poder calificar y dejar reseñas de los productos</div>
+                    <div class="card-author">Autor:Grachi Silva</div>
+                </div>
+                <div class="card card-design-interface">
+                    <img src="imagenes/10.jpg" alt=".">
+                    <div class="card-description">Tener un panel para gestionar los pedidos</div>
+                    <div class="card-author">Autor:Grachi Silva</div>
                 </div>
             </div>
         `;
